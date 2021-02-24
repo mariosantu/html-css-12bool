@@ -32,3 +32,17 @@ body {
     height: 100px;
     width: 100px;
 }
+
+.container .crimson-box {
+    background-color: #dc143c;
+    border: none;
+    height: 100px;
+    width: 100px;
+}
+
+.container .grey-box {
+    background-color: lightgray;
+    border: none;
+    height: 100px;
+    width: 100px;
+}
