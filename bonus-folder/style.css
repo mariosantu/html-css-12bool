@@ -3,3 +3,30 @@ body {
     background-color: aqua;
 }
 
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.container .black-box {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
+
+.debug .container {
+    background-color: white;
+    height: 100%;
+}
+
+.container .red-box {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+.container .white-box {
+    background-color: white;
+    height: 100px;
+    width: 100px;
+}
