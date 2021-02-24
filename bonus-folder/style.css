@@ -1,6 +1,6 @@
 
 body {
-    background-color: aqua;
+    background-color: white;
 }
 
 .container {
@@ -21,12 +21,14 @@ body {
 
 .container .red-box {
     background-color: red;
+    border: none;
     height: 100px;
     width: 100px;
 }
 
 .container .white-box {
     background-color: white;
+    border: none;
     height: 100px;
     width: 100px;
 }
